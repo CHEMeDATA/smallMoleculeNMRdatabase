@@ -6,7 +6,7 @@ The strategy we will follow for the creation of a liquid-state NMR database for 
 
 1. Create an identifyer of chemistry-relevant files found in a zip file (find .mnova files, bruker file trees, .mol files, gaussian calculation files, _etc._)
 
-2. Find chemistry-relevant files in common open repositories (upload content of repositories, find chemistry-relevant file (see 1) and add authorship metadata). 
+2. [Find chemistry-relevant files](https://github.com/CHEMeDATA/chemistryFileRegistryCreator) in common open repositories (upload content of repositories, find chemistry-relevant file (see 1) and add authorship metadata). 
 
 3. Connect molecules with spectra and register the molecule-spectrum pairs on this github repository using a pull request
    - if a .mol file is found in the NMR spectra file tree
