@@ -17,8 +17,9 @@ The strategy we will follow for the creation of a liquid-state NMR database for 
    - _add any other relevant information ..._
 
 Initially, the registration and addition of supporting information would be done using pull requests on this repository, but a more rebust mecanism can easily be introduced. The point of this project is to separate the steps in the spirit of the CHEMaDATA initiative:
--identify chemistry files 
--extract metadata from the chemistry files and create CHEMeDATA objects for spectra, molecules and assigned spectra.
+
+- Identify chemistry files 
+- Extract metadata from the chemistry files and create CHEMeDATA objects for spectra, molecules and assigned spectra.
 
 This mecanism is flexible allowing anybody to contribute at by 
 - adding identifyer of chemistry-relevant archives (see point 1)
