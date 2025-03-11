@@ -24,10 +24,8 @@ Initially, the registration and addition of supporting information would be done
 - Identify chemistry files 
 - Extract metadata from the chemistry files and create CHEMeDATA objects for spectra, molecules and assigned spectra.
 
-This mecanism is flexible allowing anybody to contribute at by 
+This mecanism is flexible allowing anybody to contribute by 
 - adding identifyer of chemistry-relevant archives (see point 1)
 - adding repository extractor for chemistry-relevant archives (see point 2)
 - adding mecanism for the formation of pairs (see point 3)
 - add metadata to existing pairs (assignment, validation, etc. see point 4)
-
-
